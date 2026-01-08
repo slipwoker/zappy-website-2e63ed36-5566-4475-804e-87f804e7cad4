@@ -1,0 +1,64 @@
+# עולם הפשע בליגה הגבוהה — Generative Engine Optimization Map
+
+> A בידור/תוכן יצירתי business.
+
+---
+
+## Pages
+
+### בית
+https://-2e63ed36.zappy5.app
+גלו סיפור אינטראקטיבי פשע בעברית מרתק עם הצייד ובולדוג. הרפתקה אינטראקטיבית מתח ופשע ייחודית שתשנה את חווית הבידור שלכם.
+
+### הסיפור
+https://-2e63ed36.zappy5.app/story
+קראו את הסיפור האינטראקטיבי המלא של הצייד ובולדוג. סיפור אינטראקטיבי פשע בעברית עם עלילה מרתקת, בחירות משמעותיות וסופים מרובים.
+
+### הדמויות
+https://-2e63ed36.zappy5.app/characters
+הכירו את הצייד, בולדוג ושאר הדמויות המרכזיות בסיפור אינטראקטיבי פשע בעברית שלנו. דמויות מורכבות עם עבר עשיר וסיפורים מרתקים.
+
+### אודות
+https://-2e63ed36.zappy5.app/about
+למדו על החזון מאחורי עולם הפשע בליגה הגבוהה. איך יצרנו סיפור אינטראקטיבי פשע בעברית ייחודי ומה מניע אותנו ליצור תוכן מרתק.
+
+### צור קשר
+https://-2e63ed36.zappy5.app/contact
+יש לכם שאלות או הצעות? צרו איתנו קשר. אנחנו תמיד שמחים לשמוע מהקוראים של הסיפור אינטראקטיבי פשע בעברית שלנו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2e63ed36.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2e63ed36.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2e63ed36.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עולם הפשע בליגה הגבוהה
+עולם הפשע בליגה הגבוהה is a business in the בידור/תוכן יצירתי industry.
+
+## Target Audience
+- חובבי מתח ופשע
+- גיימרים של סיפורים אינטראקטיביים
+- כותבים יצירתיים
+- מחפשי הרפתקאות אינטראקטיביות
+
+## Industry
+בידור/תוכן יצירתי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-2e63ed36.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-2e63ed36.zappy5.app/robots.txt
